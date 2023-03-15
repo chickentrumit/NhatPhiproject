@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **java EE, spring boot,php,c#,JS,ReactJs**
+- 🌱 I’m currently learning **java EE, spring boot,php,c#,JS,ReactJs,python,c,c++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
